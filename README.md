@@ -59,7 +59,6 @@ tqdm == 4.65.0
 label-studio == 1.16.0  # 标注工具
 
 ---
----
 ## 许可协议
 
 本项目基于 **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)** 开源，附加以下补充条款：
