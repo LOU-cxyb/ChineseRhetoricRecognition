@@ -44,15 +44,15 @@
 ---
 
 ## 依赖库列表
-```python
-# 核心依赖
+
+### 核心依赖
 torch == 2.6.0
 transformers == 4.30.0
 pandas == 2.0.3
 scikit-learn == 1.3.0
 numpy == 1.24.3
 
-# 辅助工具
+### 辅助工具
 matplotlib == 3.7.2
 seaborn == 0.12.2
 tqdm == 4.65.0
