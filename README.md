@@ -76,10 +76,10 @@ label-studio == 1.16.0  # 标注工具
 
 - 🔗 **衍生作品要求**  
   闭源衍生作品必须在显著位置标注原始项目来源：  
-  `基于四川大学《面向中文修辞识别的数据集构建与基线模型实验》项目开发（项目地址：https://github.com/LOU-cxyb/ChineseRhetoricRecognition）`
+  `基于《面向中文修辞识别的数据集构建与基线模型实验》项目开发（项目地址：https://github.com/LOU-cxyb/ChineseRhetoricRecognition）`
 
 - 🛂 **豁免申请**  
-  若需豁免上述限制（如教育合作/公益项目/企业定制），请通过 `liuyuxin@example.com` 联系作者，邮件标题格式：  
+  若需豁免上述限制（如教育合作/公益项目/企业定制），请通过 `lyxwsyx@163.com` 联系作者，邮件标题格式：  
   `[商业授权] 组织名称-使用场景`
 
 ### 协议冲突说明
